@@ -6,7 +6,7 @@ package underscore
 
 import (
 	"github.com/Arthurgyh/motto"
-	"github.com/Arthurgyh/otto"
+	"github.com/robertkrimen/otto"
 )
 
 func underscore(vm *motto.Motto) (otto.Value, error) {

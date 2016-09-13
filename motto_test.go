@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/Arthurgyh/otto"
+	"github.com/robertkrimen/otto"
 
 	//	_ "./underscore"
 

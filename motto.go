@@ -9,7 +9,7 @@ import (
 
 	"fmt"
 
-	"github.com/Arthurgyh/otto"
+	"github.com/robertkrimen/otto"
 )
 
 // Globally registered modules

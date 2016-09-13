@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/Arthurgyh/otto"
+	"github.com/robertkrimen/otto"
 )
 
 // ModuleLoader is declared to load a module.
